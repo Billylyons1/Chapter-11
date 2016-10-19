@@ -3,16 +3,30 @@
 
 <head>
 <meta charset="utf-8">
+<!DOCTYPE html >
+<html>
+
+<head>
+<meta charset="utf-8">
 <title>Black Goose Bistro Summer Menu</title>
 <link href="http://fonts.gooleapis.com/css?family=Marko+One" rel="stylesheet">
   </head>
 <style>
 body{
   font-family: Veranda, sans-serif;
+  font-size: 100%;
 }
 h1{
   font-family: "Marko-One", Georgia, Serif;
+  font-size: 1.5em 
 }
+h2{
+  font-size: 1em
+}
+p, dl{
+font-size: .875em;  
+}
+
 
 </style>
 
