@@ -3,11 +3,6 @@
 
 <head>
 <meta charset="utf-8">
-<!DOCTYPE html >
-<html>
-
-<head>
-<meta charset="utf-8">
 <title>Black Goose Bistro Summer Menu</title>
 <link href="http://fonts.gooleapis.com/css?family=Marko+One" rel="stylesheet">
   </head>
@@ -26,7 +21,9 @@ h2{
 p, dl{
 font-size: .875em;  
 }
-
+dt{
+  font-weight: bold;
+}
 
 </style>
 
