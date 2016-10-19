@@ -11,33 +11,54 @@
         font-family: Veranda, sans-serif;
         font-size: 100%;
     }
-    
+
     h1 {
         font: bold 1.5em "Marko-One", Georgia, Serif;
     }
-    
+
     h2 {
         font-size: 1em
     }
-    
+
     p,
     dl {
         font-size: .875em;
     }
-    
+
     dt {
         font-weight: bold;
     }
-    
+
     strong {
-        font-style: italic;
+        font-style: italic; color: maroon;}
+        {
+        dt strong{ color: maroon;}
     }
+      #info p{font-style: italic;}
+    #info { color: teal;}
+
+    .price{
+      font-family: Georgia, serif;
+      font-style: italic;
+      color: gray;
+    }
+    .label{
+      font-weight: bold;
+      font-variant: small-caps;
+      font-style: normal;
+    }
+    p.warning, sup{
+      font-size: x-small;
+      color: red;
+    }
+
 </style>
 
 
 <body>
 
     <div id="info">
+
         <h1>Black Goose Bistro &bull; Summer Menu</h1>
 
         <p>Baker's Corner, Seekonk, Massachusetts<br>
@@ -82,3 +103,4 @@
 </body>
 
 </html>
+
