@@ -24,7 +24,8 @@ font-size: .875em;
 dt{
   font-weight: bold;
 }
-
+strong{font-style: italic;
+}
 </style>
 
 
