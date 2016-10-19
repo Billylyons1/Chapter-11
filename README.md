@@ -1,4 +1,3 @@
-# Chapter-11
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
@@ -61,8 +60,9 @@
 
             <p>Are they supposed to be another security feature? ("They'll <em>NEVER</em> be able to duplicate this $20... look at those 20s... they're all <em>OVER</em> the place!") Did they let a summer intern at the Bureau of Engraving and Printing design
                 it? ("Hey, let Jimmy try it!") Were they concerned the $20 bill might be confused with a $10? ("What this 20 needs is a LOT more 20s.")</p>
-
-            <h2>Connect-the-Dots</h2>
+                <h2 style="color: gray"
+                Connect-the-Dots</h2>
+              Connect-The Dots</h2>
             <p>There must be more to it. My theory: the new 20s contain subliminal connect-the-dots messages, like tiny constellations. So, perhaps the 20s connect to form a secret message designed to stimulate the economy ("SPEND MORE") or boost patriotism
                 ("WE'RE NO.1").</p>
 
